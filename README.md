@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 😁
+
+My name is Nahaly Mesquita from Brazil (🇧🇷). I've been working as Front-End Developer  I'm passionate about open source projects.
+
+In my free time I like watch series (📺)  and movies (🎞️), to read books (📚), to listen to music (🎵) i love photography, traveling and riding motorcycle and eventually do trails.
+
+Would you like to find me?
+
+[Instagram](https://www.instagram.com/nathalymesquiita/)
 
 <!--
 **nathy-mesquita/nathy-mesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
